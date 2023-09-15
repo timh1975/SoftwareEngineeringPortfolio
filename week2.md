@@ -1,11 +1,13 @@
-### Week 2 Portfolio for Software Engineering SET09102
+# Week 2 Portfolio for Software Engineering SET09102
 ## Tim Honisett 40595819
 
-# GitHub and repo setup
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+### GitHub and repo setup
 
 Given that I already had a GitHub account and wished to get more experience in using the platform, I volunteered to setup the group account
 
-The following steps were undertaken to acheive this
+The following steps were undertaken to acheive this. **Please note that these steps create a new remote repo, not clone it**
 
 Firstly, open up Visual Studio and create a new project
 
@@ -23,4 +25,4 @@ In Additional information, select .NET 6.0. This was chosen over .NET 7.0 as the
 
 ![](images/VS_choose_dotnet_version.png "")
 
-
+Once the project has been built, click on Add to Source Control which is found at the button right hand side of the screen.  
