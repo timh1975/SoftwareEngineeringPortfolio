@@ -11,6 +11,10 @@ Firstly, open up Visual Studio and create a new project
 
 ![](images/VS_new_project.png.png "")
 
-Search for MAUI template and choose .NET MAUI App
+Search for MAUI template and choose .NET MAUI App then click on Next at the botton right hand side of the screen
+
+![](images/VS_select_MAUI_template.png "")
+
+Choose the same of the project and click on next
 
 
