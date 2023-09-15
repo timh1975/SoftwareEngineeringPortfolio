@@ -46,6 +46,7 @@ As the repository is private, collaborators were added using the settings tab.  
 
 Visual Studio 2022 version 17.4 already installed on machine.  .NET MAUI confirmed by looking at Visual Studio installer tool
 
+![](images/VS_confirm_MAUI_installed.png "")
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloning the shared repository
