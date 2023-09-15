@@ -21,6 +21,6 @@ Choose the same of the project and click on next
 
 In Additional information, select .NET 6.0. This was chosen over .NET 7.0 as the newer version is only a short term support release.
 
-![])(images/VS_chose)
+![](images/VS_choose_dotnet_version.png "")
 
 
