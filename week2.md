@@ -17,4 +17,8 @@ Search for MAUI template and choose .NET MAUI App then click on Next at the bott
 
 Choose the same of the project and click on next
 
+![](images/VS_name_project.png "")
+
+In Additional information, select .NET 6.0. This was chosen over .NET 7.0 as the newer version is only a short term support release.
+
 
