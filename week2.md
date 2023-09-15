@@ -53,6 +53,9 @@ The Basic installation type was chosen as default configuration is only required
 
 ![](images/SQL_Server_Select_Installation_Type.png "")
 
+Once the installation has been completed, the user can either connect to an existing database, customise or intall SSMS which is a tool to allow the user to manage the database in a graphical environment
+
+![](images/SQL_Server_Installation_Complete.png "")
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloning the shared repository
