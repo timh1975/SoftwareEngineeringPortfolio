@@ -37,3 +37,5 @@ Once the details have been entered, click on Create and Push
 
 The remote repository will now appear in GitHub.
 
+![](images/VS_first_commit_on_create.png "")
+
