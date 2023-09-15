@@ -26,3 +26,10 @@ In Additional information, select .NET 6.0. This was chosen over .NET 7.0 as the
 ![](images/VS_choose_dotnet_version.png "")
 
 Once the project has been built, click on Add to Source Control which is found at the button right hand side of the screen.  
+
+The Create a Git repository dialog box will appear. As Visual Studio was already linked to my GitHub account, i did not need to provide these details.
+Visual Studio default .gitignore template was added to prevent unncessary files unrelated to the project from being pushed to the remote depository.
+It was dicided to keep the repository private to mitigate against plagiarism
+
+Once the details have been entered, click on Create and Push
+
