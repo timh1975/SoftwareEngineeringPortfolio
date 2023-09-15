@@ -49,7 +49,11 @@ Another team member has set up the Kanban board using zube.io
 
 To check that the Kanban board was integrated with GitHub, I raised a test card and assigned it to myself.
 
+![](images/kanban_add_testcard.png "")
 
+To check that this test card appears on GitHub, I opened the Issues tab and the card appeared as open
+
+![](images/kanban_github.png "")
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Configuring a personal copy of visual studio appropriately
