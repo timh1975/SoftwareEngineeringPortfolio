@@ -39,3 +39,5 @@ The remote repository will now appear in GitHub.
 
 ![](images/VS_first_commit_on_create.png "")
 
+As the repository is private, collaborators were added using the settings tab.  Email invites were sent out to their academic addresses
+
