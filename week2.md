@@ -48,6 +48,10 @@ Visual Studio 2022 version 17.4 already installed on machine.  .NET MAUI confirm
 
 ![](images/VS_confirm_MAUI_installed.png "")
 
+Microsoft SQL Server was installed as part of the requirements for the project. SQL Server 2022 Develop was installed from https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloning the shared repository
 
