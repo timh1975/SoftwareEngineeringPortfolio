@@ -43,6 +43,12 @@ As the repository is private, collaborators were added using the settings tab.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Setting up a project in GitHub with integrated task board
+The project has already been set up as described above.  
+
+Another team member has set up the Kanban board using zube.io
+
+To check that the Kanban board was integrated with GitHub, I raised a test card and assigned it to myself.
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
