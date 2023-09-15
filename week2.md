@@ -42,6 +42,10 @@ The remote repository will now appear in GitHub.
 As the repository is private, collaborators were added using the settings tab.  Email invites were sent out to their academic addresses
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+### Setting up a project in GitHub with integrated task board
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Configuring a personal copy of visual studio appropriately
 
 Visual Studio 2022 version 17.4 already installed on machine.  .NET MAUI confirmed by looking at Visual Studio installer tool
