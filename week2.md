@@ -9,7 +9,7 @@ The following steps were undertaken to acheive this
 
 Firstly, open up Visual Studio and create a new project
 
-![](images/VS_new_project.png.png "")
+![](images/VS_new_project.png "")
 
 Search for MAUI template and choose .NET MAUI App then click on Next at the botton right hand side of the screen
 
