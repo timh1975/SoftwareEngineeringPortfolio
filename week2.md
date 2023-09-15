@@ -59,3 +59,9 @@ The Basic installation type was chosen as default configuration is only required
 
 As I am the owner of the group repo, cloning the shared repository was not applicable as I created the local repository before creating and pushing to the remote repo
 
+### Reflection
+
+A particular strenght is that I undertook Software Engineering Methods last year which gave exposure to Scrum principles, Kanban boards, Continuous Improvement, Version control using git and, GitHub. This has helped in supporting fellow third year direct enterant students. However, I found using vesion control and GitHub problematic last year as I didnt read up enough on these subjects. Despite this, I am learning these skills again from scratch in order to be more efficient in these technical skills so that I can support the team when the project starts.
+
+Whilst there were no particular challenges this week. However, the main challenges are to learn effective version control and GitHub management given that I had issues with using git last year and that I am managing the group repo. A further challenge is to learn using MAUI as this is a template I have not had previous exposure to this.
+
