@@ -41,3 +41,14 @@ The remote repository will now appear in GitHub.
 
 As the repository is private, collaborators were added using the settings tab.  Email invites were sent out to their academic addresses
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+### Configuring a personal copy of visual studio appropriately
+
+Visual Studio 2022 version 17.4 already installed on machine.  .NET MAUI confirmed by looking at Visual Studio installer tool
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+### Cloning the shared repository
+
+As I am the owner of the group repo, cloning the shared repository was not applicable as I created the local repository before creating and pushing to the remote repo
+
