@@ -33,3 +33,7 @@ It was dicided to keep the repository private to mitigate against plagiarism
 
 Once the details have been entered, click on Create and Push
 
+![](images/VS_create_git_repository.png "")
+
+The remote repository will now appear in GitHub.
+
