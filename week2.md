@@ -10,6 +10,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### GitHub and repo setup
+
 Given that I already had a GitHub account and wished to get more experience in using the platform, I volunteered to setup the group account
 
 The following steps were undertaken to acheive this. **Please note that these steps create a new remote repo, not clone it**
