@@ -10,7 +10,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### GitHub and repo setup
-### <a name="setup-github">></a>
 Given that I already had a GitHub account and wished to get more experience in using the platform, I volunteered to setup the group account
 
 The following steps were undertaken to acheive this. **Please note that these steps create a new remote repo, not clone it**
@@ -49,6 +48,7 @@ As the repository is private, collaborators were added using the settings tab.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Setting up a project in GitHub with integrated task board
+
 The project has already been set up as described above.  
 
 Another team member has set up the Kanban board using zube.io
