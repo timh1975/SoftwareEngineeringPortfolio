@@ -86,7 +86,7 @@ As I am the owner of the group repo, cloning the shared repository was not appli
 
 ### Documentation
 
-Documentation on setting up visual studio and github environment was added to the team repo.  The markdown file in PDF will be provided as part of the portfolio submission in week 2
+Documentation on setting up visual studio and github environment was added to the team repo.  
 
 ### Reflection
 
