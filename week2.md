@@ -2,8 +2,8 @@
 ## Tim Honisett 40595819
 
 ###### List of contents
-1.  [GitHub and repo setup] (#github-and-repo-setup)
-2.  [Setting up a project in GitHub with integrated task board]
+1.  [GitHub and repo setup](#github-and-repo-setup)
+2.  [Setting up a project in GitHub with integrated task board](setting-up-a-project-in-gitHub-with-integrated-task-board)
 3.  [Configuring a personal copy of visual studio appropriately]
 4.  [Cloning the shared repository]
 5.  [Reflection]
