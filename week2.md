@@ -1,10 +1,16 @@
 # Week 2 Portfolio for Software Engineering SET09102
 ## Tim Honisett 40595819
 
+###### List of contents
+1.  [GitHub and repo setup] (#github-and-repo-setup)
+2.  [Setting up a project in GitHub with integrated task board]
+3.  [Configuring a personal copy of visual studio appropriately]
+4.  [Cloning the shared repository]
+5.  [Reflection]
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### GitHub and repo setup
-
+### <a name="setup-github">></a>
 Given that I already had a GitHub account and wished to get more experience in using the platform, I volunteered to setup the group account
 
 The following steps were undertaken to acheive this. **Please note that these steps create a new remote repo, not clone it**
