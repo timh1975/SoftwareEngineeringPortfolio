@@ -6,7 +6,8 @@
 2.  [Setting up a project in GitHub with an integrated task board](#setting-up-a-project-in-gitHub-with-an-integrated-task-board)
 3.  [Configuring a personal copy of Visual Studio appropriately](#configuring-a-personal-copy-of-visual-studio-appropriately)
 4.  [Cloning the shared repository](#cloning-the-shared-repository)
-5.  [Reflection](#reflection)
+5.  [Documentation](#documentation)
+6.  [Reflection](#reflection)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Creating a shared GitHub repository for the team
@@ -82,6 +83,10 @@ Once the installation has been completed, the user can either connect to an exis
 ### Cloning the shared repository
 
 As I am the owner of the group repo, cloning the shared repository was not applicable as I created the local repository before creating and pushing to the remote repo
+
+### Documentation
+
+Documentation on setting up visual studio and github environment was added to the team repo.  The markdown file in PDF will be provided as part of the portfolio submission in week 2
 
 ### Reflection
 
