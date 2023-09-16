@@ -2,9 +2,9 @@
 ## Tim Honisett 40595819
 
 ###### List of contents
-1.  [GitHub and repo setup](#creating-a-shared-gitHub-repository-for-the-team)
-2.  [Setting up a project in GitHub with integrated task board](#setting-up-a-project-in-gitHub-with-integrated-task-board)
-3.  [Configuring a personal copy of visual studio appropriately](#configuring-a-personal-copy-of-visual-studio-appropriately)
+1.  [Creating a shared GitHub repository for the team](#creating-a-shared-gitHub-repository-for-the-team)
+2.  [Setting up a project in GitHub with an integrated task board](#setting-up-a-project-in-gitHub-with-an-integrated-task-board)
+3.  [Configuring a personal copy of Visual Studio appropriately](#configuring-a-personal-copy-of-visual-studio-appropriately)
 4.  [Cloning the shared repository](#cloning-the-shared-repository)
 5.  [Reflection](#reflection)
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ The remote repository will now appear in GitHub.
 As the repository is private, collaborators were added using the settings tab.  Email invites were sent out to their academic addresses
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### Setting up a project in GitHub with integrated task board
+### Setting up a project in GitHub with an integrated task board
 
 The project has already been set up as described above.  
 
@@ -63,7 +63,7 @@ To check that this test card appears on GitHub, I opened the Issues tab and the 
 ![](images/kanban_github.png "")
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### Configuring a personal copy of visual studio appropriately
+### Configuring a personal copy of Visual Studio appropriately
 
 Visual Studio 2022 version 17.4 already installed on machine.  .NET MAUI confirmed by looking at Visual Studio installer tool
 
