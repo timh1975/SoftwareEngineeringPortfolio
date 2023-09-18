@@ -15,19 +15,26 @@ Local SQLite database installed into Visual Studio using Nugent Packages.  To in
 
 ![](images/VS-nuGent-packages.png "")
 
-**figure 1**
+**(figure 1)**
 
 Manage Packages for Solution screen will now appear.  In the Browse tab, enter sqlite-net-pcl in the search bar (see figure 2)
 
 ![](images/VS-find-package.png "")
 
-**figure 2**
+**(figure 2)**
 
 Highlight the package (1), choose the project and solution to add the package to (2) and click on install. (see figure 3)
 
 ![](images/vs-install-package.png "")
 
-**figure 3**
+**(figure 3)**
+
+Click on apply to add changes to the project/solution (see figure 4)
+
+![](images/VS-nuGent-preview-changes.png "")
+
+**(figure 4)**
+
 
 ### Team Workflow
 
