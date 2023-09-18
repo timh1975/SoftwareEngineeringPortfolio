@@ -13,7 +13,7 @@
 Local SQLite database installed into Visual Studio using Nugent Packages.  To install packages, right click on tools in the main menu, Nugent Package Manager than Manage NuGent Packages for Solutions
 (See figure 1)
 
-![](imVS_ages/)
+![](images/VS-nuGent-packages.png "")
 
 ### Team Workflow
 
