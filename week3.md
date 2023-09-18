@@ -35,6 +35,7 @@ Click on apply to add changes to the project/solution (see figure 4)
 
 **(figure 4)**
 
+The package will now install
 
 ### Team Workflow
 
