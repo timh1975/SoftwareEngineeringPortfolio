@@ -15,6 +15,12 @@ Local SQLite database installed into Visual Studio using Nugent Packages.  To in
 
 ![](images/VS-nuGent-packages.png "")
 
+**figure 1**
+
+Manage Packages for Solution screen will now appear.  In the Browse tab, enter sqlite-net-pcl in the search bar (see figure 2)
+
+
+
 ### Team Workflow
 
 ### Import the issue list
