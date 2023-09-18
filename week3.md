@@ -39,6 +39,20 @@ The package will now install
 
 ### Team Workflow
 
+The team workflow was agreed on 18th September 2023.
+
+A Kanban board using Zube has been set up and will be used, using the following headings
+
+  1.  Tasks
+  2.  In Progress
+  3.  Blockers
+  4.  In Review
+  5.  Completed
+
+A pull request will be issued when a developer wishes to merge a feature branch into the development branch
+
+A development branch was created from main branch. All feature branches 
+
 ### Import the issue list
 
 ### Individual development tasks
