@@ -25,7 +25,9 @@ Manage Packages for Solution screen will now appear.  In the Browse tab, enter s
 
 Highlight the package (1), choose the project and solution to add the package to (2) and click on install. (see figure 3)
 
+![](images/vs-install-package.png "")
 
+**figure 3**
 
 ### Team Workflow
 
