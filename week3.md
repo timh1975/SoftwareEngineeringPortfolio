@@ -2,7 +2,7 @@
 ## Tim Honisett -40595819
 
 ## list of contents
-1.  [Geting Starting with .NET MAUI(#geting-startingswith-.nry-maui)
+1.  [Geting Starting with .NET MAUI](#geting-startingswith-.nry-maui)
 2.  [Team Workflow](#team-workflow)
 3.  [Import the issue list](#import-the-issue-list)
 4.  [Individual development tasks](#individual-development-tasks)
