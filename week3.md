@@ -2,7 +2,7 @@
 ## Tim Honisett -40595819
 
 ## list of contents
-1.  [Geting Starting with .NET MAUI](#geting-startingswith-.nry-maui)
+1.  [Geting Starting with .NET MAUI](#geting-starting-with-.net-maui)
 2.  [Team Workflow](#team-workflow)
 3.  [Import the issue list](#import-the-issue-list)
 4.  [Individual development tasks](#individual-development-tasks)
@@ -37,6 +37,8 @@ Click on apply to add changes to the project/solution (see figure 4)
 
 The package will now install
 
+Once the exerices for creating the MAUI and adding SQLite database. The code can be found [here](https://github.com/timh1975/Notes)
+
 ### Team Workflow
 
 The team workflow was agreed on 18th September 2023.
@@ -54,6 +56,8 @@ A pull request will be issued when a developer wishes to merge a feature branch 
 A development branch was created from main branch. All feature branches 
 
 ### Import the issue list
+
+The import of the 
 
 ### Individual development tasks
 
