@@ -1,5 +1,5 @@
 # Software Engineering - SET09102 - Portfolio for week 3 
-## Tim Honisett -40595819
+## Tim Honisett - 40595819
 
 ## list of contents
 1.  [Geting Starting with .NET MAUI](#geting-starting-with-.net-maui)
@@ -57,7 +57,9 @@ A development branch was created from main branch. All feature branches
 
 ### Import the issue list
 
-The import of the 
+The import of the isues have already been undertaken by another team member.  I assigned task 22 to myself.
+
+The next step was to create a feature branch on my local machine followed by pushing it to the remote repo.
 
 ### Individual development tasks
 
