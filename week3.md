@@ -12,7 +12,7 @@
 
 The first step was to follow instructions on Getting Started in creating a [MAUI app](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/).  The next step was to add a [SQLite database](https://learn.microsoft.com/en-us/dotnet/maui/data-cloud/database-sqlite) to the project. 
 
-The starter program [notes](https://github.com/timh1975/Notes) which is in my personal GitHub repository is based on the tutorials as linked above. This application will be used to inform programming knowledge when developing the actual UNDAC project.
+The starter program [notes](https://github.com/timh1975/Notes) which is in my personal GitHub repository is based on the tutorials as linked above. At present, only records can be created.  The next step is to update and delete records.  This application will be used to inform programming knowledge when developing the actual UNDAC project.
 
 Once a .NET MAUI project was created, the nugent sqlite-net-plc was added to the project (See figures 1 to 4 to follow the process of installing the package)
 
