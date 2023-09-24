@@ -59,19 +59,25 @@ A development branch was created from main branch. All feature branches. As the 
 ### Import the issue list
 
 A list of the issues were added to the Kanban board by a team member. It was agreed that team members can assign themselves tasks based on their confidence.
-I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8).  The issue was moved to in progress on the board (fig ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
+I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8). 
 
 ![](images/kanban-selected-issue.png "")
 
 **(figure 5) select issue from backlog**
 
-
+![](images/vs-create-new-branch-1.png"")
 
 **(figure 6) step 1 to create new branch**
 
+![](images/vs-create-new-branch-2.png"")
+
 **(figure 7)step 2 to create new branch**
 
-The next step was to create a feature branch on my local machine followed by pushing it to the remote repo.
+The next step was to create a feature branch on my local machine followed by pushing it to the remote repo (fig 8)
+
+
+
+ The issue was moved to in progress on the board (fig ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
 
 ### Individual development tasks
 
