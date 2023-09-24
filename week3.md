@@ -38,6 +38,7 @@ Click on apply to add changes to the project/solution (see figure 4)
 The package will now install
 
 Once the exerices for creating the MAUI and adding SQLite database. The code can be found [here](https://github.com/timh1975/Notes)
+What was learnt from this exercise will inform the programming knowledge required to undertake the project.
 
 ### Team Workflow
 
@@ -53,11 +54,22 @@ A Kanban board using Zube has been set up and will be used, using the following 
 
 A pull request will be issued when a developer wishes to merge a feature branch into the development branch
 
-A development branch was created from main branch. All feature branches 
+A development branch was created from main branch. All feature branches. As the knowlege of the module grows, team members can amend workflow.md as neccessary.
 
 ### Import the issue list
 
-The import of the isues have already been undertaken by another team member.  I assigned task 22 to myself.
+A list of the issues were added to the Kanban board by a team member. It was agreed that team members can assign themselves tasks based on their confidence.
+I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8).  The issue was moved to in progress on the board (fig ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
+
+![](images/kanban-selected-issue.png "")
+
+**(figure 5) select issue from backlog**
+
+
+
+**(figure 6) step 1 to create new branch**
+
+**(figure 7)step 2 to create new branch**
 
 The next step was to create a feature branch on my local machine followed by pushing it to the remote repo.
 
