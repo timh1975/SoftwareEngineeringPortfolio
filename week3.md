@@ -78,11 +78,11 @@ I have assigned myself an issue (fig 5), created a new feature branch (fig 6 and
 
 ![](images/vs-create-new-branch-2.png "")
 
-**(figure 7 )step 2 to create new branch in visual studio**
+**(figure 7 ) step 2 to create new branch in visual studio**
 
 The next step was to create a feature branch on my local machine followed by pushing it to the remote repo (fig 8)
 
-![](images\vs-push-repo.png "")
+![](images/vs-push-repo.png "")
 
 **(figure 8) push mew branch to remote repo from visual studio**
 
