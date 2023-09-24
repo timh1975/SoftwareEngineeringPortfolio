@@ -10,7 +10,11 @@
 
 ### Geting Starting with .NET MAUI
 
-Local SQLite database installed into Visual Studio using Nugent Packages. The package used is sqlite-net-plc. To install package, right click on tools in the main menu, Nugent Package Manager than Manage NuGent Packages for Solutions
+The first step was to follow instructions on Getting Started in creating a [MAUI app](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/).  The next step was to add a [SQLite database](https://learn.microsoft.com/en-us/dotnet/maui/data-cloud/database-sqlite) to the project.  The starter program [notes](https://github.com/timh1975/Notes) which has a simple database that currently only creates records.  The next step is to add in the function to delete and update a record.
+
+Once a .NET MAUI project was created, the nugent sqlite-net-plc was added to the project (See figures 1 to 4 to follow the process of installing the package)
+
+Right click on tools in the main menu, Nugent Package Manager than Manage NuGent Packages for Solutions
 (See figure 1)
 
 ![](images/VS-nuGent-packages.png "")
@@ -58,7 +62,7 @@ A development branch was created from main branch. All feature branches. As the 
 
 ### Import the issue list
 
-A list of the issues were added to the Kanban board by a team member. It was agreed that team members can assign themselves tasks based on their confidence. The workflow of assigning an issue included moving the issue into in progress on the Kanban board, creating a new feature branch for that issue,and pushing feature to the remote repo.
+A list of the issues were added to the Kanban board by another team member. It was agreed that team members can assign themselves tasks based on their confidence. The workflow of assigning an issue is to move the issue into in progress on the Kanban board, create a new feature branch for that issue, and pushing feature to the remote repo.
 
 ### Individual development tasks
 
@@ -71,22 +75,26 @@ I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 
 
 ![](images/vs-create-new-branch-1.png"")
 
-**(figure 6) step 1 to create new branch**
+**(figure 6) step 1 to create new branch in visual studio**
 
 ![](images/vs-create-new-branch-2.png"")
 
-**(figure 7 )step 2 to create new branch**
+**(figure 7 )step 2 to create new branch in visual studio**
 
 The next step was to create a feature branch on my local machine followed by pushing it to the remote repo (fig 8)
 
 ![](images\vs-push-repo.png"")
 
-**(figure 8) push mew branch to remote repo**
+**(figure 8) push mew branch to remote repo from visual studio**
 
-The issue was moved to in progress on the board (fig 9 ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
+The issue was moved to in progress on the board (fig 9 ). 
+
+This issue will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
 
 ![](images\kanban-isue-in-progress.png "")
 
 **(figure 9) move issue to in progress**
 
 ### Continous integration
+
+Given the time taken to get familiar with .NET MAUI and asyncrinous SQLite database managedment, Continuous Integration will be explored in depth before the actual project gets underway.
