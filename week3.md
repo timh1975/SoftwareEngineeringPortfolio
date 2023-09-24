@@ -58,7 +58,11 @@ A development branch was created from main branch. All feature branches. As the 
 
 ### Import the issue list
 
-A list of the issues were added to the Kanban board by a team member. It was agreed that team members can assign themselves tasks based on their confidence.
+A list of the issues were added to the Kanban board by a team member. It was agreed that team members can assign themselves tasks based on their confidence. The workflow of assigning an issue included moving the issue into in progress on the Kanban board, creating a new feature branch for that issue,and pushing feature to the remote repo.
+
+### Individual development tasks
+
+
 I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8). 
 
 ![](images/kanban-selected-issue.png "")
@@ -71,14 +75,18 @@ I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 
 
 ![](images/vs-create-new-branch-2.png"")
 
-**(figure 7)step 2 to create new branch**
+**(figure 7 )step 2 to create new branch**
 
 The next step was to create a feature branch on my local machine followed by pushing it to the remote repo (fig 8)
 
+![](images\vs-push-repo.png"")
 
+**(figure 8) push mew branch to remote repo**
 
- The issue was moved to in progress on the board (fig ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
+The issue was moved to in progress on the board (fig 9 ). This will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
 
-### Individual development tasks
+![](images\kanban-isue-in-progress.png "")
+
+**(figure 9) move issue to in progress**
 
 ### Continous integration
