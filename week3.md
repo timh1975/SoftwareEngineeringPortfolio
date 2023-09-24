@@ -66,7 +66,7 @@ A list of the issues were added to the Kanban board by another team member. It w
 ### Individual development tasks
 
 
-I have assigned myself issue 1 (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8). 
+I have assigned myself an issue (fig 5), created a new feature branch (fig 6 and 7) in visual studio and pushed to GitHub repo (fig 8). 
 
 ![](images/kanban-selected-issue.png "")
 
