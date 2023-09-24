@@ -43,9 +43,6 @@ Click on apply to add changes to the project/solution (see figure 4)
 
 The package will now install
 
-Once the exerices for creating the MAUI and adding SQLite database. The code can be found [here](https://github.com/timh1975/Notes)
-What was learnt from this exercise will inform the programming knowledge required to undertake the project.
-
 ### Team Workflow
 
 The team workflow was agreed on 18th September 2023.
