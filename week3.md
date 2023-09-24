@@ -90,7 +90,7 @@ The issue was moved to in progress on the board (fig 9 ).
 
 This issue will remain in progress until the feature branch has been worked on between week 6 and 8 of the module.
 
-![](images\kanban-isue-in-progress.png "")
+![](images/kanban-isue-in-progress.png "")
 
 **(figure 9) move issue to in progress**
 
