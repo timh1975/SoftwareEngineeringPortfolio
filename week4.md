@@ -2,7 +2,7 @@
 ### Tim Honisett 40595819
 
 ## Contents ##
-1.  [The Code to Review](#the-code-to-reivew)
+1.  [The Code to Review](#the-code-to-review)
 2.  [Identifying problems](#identifying-problems)
 3.  [Suggested fixes](#suggested-fixes)
 4.  [Documentation](#Documentation)
