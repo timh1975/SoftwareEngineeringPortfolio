@@ -1,5 +1,5 @@
-### Code Review - Week 4 ###
-### Tim Honisett 40595819
+# Code Review - Week 4 #
+## Tim Honisett 40595819 ##
 
 ## Contents ##
 1.  [The Code to Review](#the-code-to-review)
