@@ -49,6 +49,22 @@ Class objects have getters and setters for encapsulation. Classes are small and 
 
 Class names are defined to provide information on their purpose.
 
+## Code Documentation with Doxygen
+
+Doxygen was used to create API document.  Figure (1) list of classes, figure (2) list of  methods, figure (3) methods in database class
+
+![](/images/xoygen-class-list.png "")
+
+Figure(1) class list
+
+![](/images/xoygen-function-list.png "")
+
+Figure(2) method list
+
+![](/images/xoygen-function-ethod.png "")
+
+Figure(3) methods in Database class
+
 ## References
 
 Martin, RC. (2009). *Clean code: a handbook of agile software craftmanship*. Pearson 
