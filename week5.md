@@ -53,15 +53,15 @@ Class names are defined to provide information on their purpose.
 
 Doxygen was used to create API document.  Figure (1) list of classes, figure (2) list of  methods, figure (3) methods in database class
 
-![](/images/xoygen-class-list.png "")
+![](/images/doxygen-class-list.png "")
 
 Figure(1) class list
 
-![](/images/xoygen-function-list.png "")
+![](/images/doxygen-function-list.png "")
 
 Figure(2) method list
 
-![](/images/xoygen-function-method.png "")
+![](/images/doxygen-function-method.png "")
 
 Figure(3) methods in Database class
 
