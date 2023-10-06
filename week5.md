@@ -61,7 +61,7 @@ Figure(1) class list
 
 Figure(2) method list
 
-![](/images/xoygen-function-ethod.png "")
+![](/images/xoygen-function-method.png "")
 
 Figure(3) methods in Database class
 
