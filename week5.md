@@ -2,7 +2,9 @@
 
 ## Contents
 
-(Clean Code)[]
+1.  [Clean Code](#clean-code)
+2.  [Code Documentation with Doxygen](#code-documentation-wth-doxygen)
+3.  [Process Documentation](#process-documentation)
 
 
 ## Clean Code
@@ -57,7 +59,7 @@ Class names are defined to provide information on their purpose.
 
 ## Code Documentation with Doxygen
 
-Doxygen was used to create API document.  Figure (1) list of classes, figure (2) list of  methods, figure (3) methods in database class
+Doxygen was used to create API document.The next step is to add parameters to the documentation.  Figure (1) list of classes, figure (2) list of  methods, figure (3) methods in database class
 
 ![](/images/doxygen-class-list.png "")
 
@@ -70,6 +72,11 @@ Figure(2) method list
 ![](/images/doxygen-function-method.png "")
 
 Figure(3) methods in Database class
+
+## Process Documentation
+
+Doxygen.md added to the document folder in the remote repo.  Communicated to team that this has been added.
+
 
 ## References
 
