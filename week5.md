@@ -26,16 +26,16 @@ It was decided to leave the DeleteNote_Clicked method blank at present. This is 
 
 ### Comments
 
-Comments were added to the methods using Visual Studio IntelliSense.  Doxygen used to create the API documentation. [See below for output.](#code-documentation-with-doxygen)
+Comments were added to the methods using Visual Studio IntelliSense.  Doxygen used to create the API documentation. [See Doxygen section.](#code-documentation-with-doxygen)
 
 ### Formatting
 
 Consistant formatting applied thought out application including:
 
-1.  Having opening and closing brackets on the next line and code within these brackets are tabulated
-2.  Space between inport, using, and method statements
-3.  Classes and methods kept short
-4.  Statements fit in the lenght of the screen
+1.  Having opening and closing brackets on their own line and indendent these code sections.
+2.  Space between inport, using, clas, and method statements.
+3.  Classes and methods kept short, applying single responsbility policy.
+4.  Statements fit in the width of the screen.
 
 ### Objects and Data Structures
 
@@ -54,9 +54,13 @@ Error handling has not yet been added to the application.  The following would n
 
 ### Classes
 
-Class objects have getters and setters for encapsulation. Classes are small and are dedicated to a particular set of related functions. For example, database CRUD functions, defining a table, and setting up database configuration and initiation. This is to comply with the single responsbility principle.
+Class objects have getters and setters for encapsulation. Classes are small and are dedicated to a particular set of related functions. For example, classes were created to 
 
-Class names are defined to provide information on their purpose.
+1.  Provide database configuration
+2.  Database CRUD operations
+3.  Note table definitions
+
+Class names where chosen to provide a descriptive definition.
 
 ## Code Documentation with Doxygen
 
