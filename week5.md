@@ -14,7 +14,7 @@ Martin(2009) was used as a template for determing clean code for the code that w
 
 ### Meaningful Names
 
-Classes and methods were provided with meaningful names to indicate their functions.  Folders added and named according to the function of their specific classes which included DataBase, Views, Models and, Images. This is to allow for the application to use the View/Model architucture.
+Classes and methods were provided with meaningful names to indicate their functions.  Folders added and named according to the function of their specific classes which included DataBase, Views, Models and, Images. This is to allow for the application to use the View/Model architecture.
 
 Several of the class names were updated to make their functions clearer.  Constrant was changed to Config, Note to NoteTable.
 
@@ -26,7 +26,7 @@ It was decided to leave the DeleteNote_Clicked method blank at present. This is 
 
 ### Comments
 
-Comments were added to the methods using Visual Studio IntelliSense.  Doxygen used to create the API documentation. See below for output.
+Comments were added to the methods using Visual Studio IntelliSense.  Doxygen used to create the API documentation. [See below for output.](#code-documentation-with-doxygen)
 
 ### Formatting
 
