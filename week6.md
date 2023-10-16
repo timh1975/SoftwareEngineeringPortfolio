@@ -82,6 +82,7 @@ Once the tests were successfull, my feature test branch was pushed into GitHub (
 
 **fig 3**
 
+Using GitHub, my test branch was merged into the main branch
 
 ![](/images/github-merged-branch.png "")
 
