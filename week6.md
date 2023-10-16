@@ -72,4 +72,4 @@ The unit test was initiated by highlighting the test method, right clicking and 
 
 The unit test passed as shown in figure 2
 
-![](/images/tets-passed.png "")
+![](/images/vs-tets-passed.png "")
