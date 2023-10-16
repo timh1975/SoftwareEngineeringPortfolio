@@ -1,6 +1,6 @@
 ## Week 6 - Tim Honiset 40595819
 
-Given the issues surrounding the lab materials for week 7, this week's porfolio will focus just on the unit test that I written, tested, uploading into repo and merging into the main brach
+Given the issues surrounding the lab materials for week 6, this week's porfolio will focus just on the unit test that I written, tested, uploading into repo and merging into the main brach
 
 # The Unit Test
 
