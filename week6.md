@@ -75,3 +75,14 @@ The unit test passed as shown in figure 2
 ![](/images/vs-tets-passed.png "")
 
 **fig2**
+
+Once the tests were successfull, my feature test branch was pushed into GitHub (fig 3)
+
+![](/images/push-repo.png "")
+
+**fig 3**
+
+
+![](/images/github-merged-branch.png "")
+
+*8fig 4**
