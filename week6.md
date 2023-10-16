@@ -66,6 +66,8 @@ namespace UnitTestProject
 
 The unit test was initiated by highlighting the test method, right clicking and selecting run test (fig 1)
 
+![](/images/vs-run-unit-test.png "")
 
+**fig 1**
 
 
