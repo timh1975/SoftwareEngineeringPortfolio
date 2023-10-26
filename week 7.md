@@ -34,7 +34,7 @@ Once the feedback was sent back to the developer, the merge process to the devel
 
 **step 1 - click on Merge pull request
 
-![](images/github-confim-merge.png "")
+![](images/github-confirm-merge.png "")
 
 **step 2 - click on confirm merge
 
