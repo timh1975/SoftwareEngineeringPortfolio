@@ -32,13 +32,13 @@ Once the feedback was sent back to the developer, the merge process to the devel
 
 ![](images/github-merge-request.png "")
 
-**step 1 - click on Merge pull request
+**step 1 - click on Merge pull request**
 
 ![](images/github-confirm-merge.png "")
 
-**step 2 - click on confirm merge
+**step 2 - click on confirm merge**
 
 ![](images/github-merged-confirmed.png "")
 
-**step 3 - merge of branches confirmed
+**step 3 - merge of branches confirmed**
 
