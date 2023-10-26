@@ -18,10 +18,14 @@ Next, the link circled in red was clicked (fig 2) to view changes made in the pu
 
 ![](images/github-select-pull-request.png "")
 
-**fig 2 (select PR link)***
+**fig 2 (select PR link)**
 
 The code marked in green in figure 3 is the requested changes made. This was the code that was reviewed
 
 ![](images/github-push-see-changes.png "")
 
-**fig 3 (view PR request code)***
+**fig 3 (view PR request code)**
+
+The code was viewed line by line. This review was very straight forward as the constant class was the same as the ToDoList task.  The developer confirmed that their changes worked on their own feature branch. Given this and that the code matched the ToDoList project which I knew worked, I was able to approve the code and the PR merge into the development branch.
+
+
