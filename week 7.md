@@ -8,9 +8,20 @@ The GitHub account was setup so that any merges from a feature branch to the dev
 
 Here, I am reviewing the datatabase constrants class directly in GitHub. 
 
-Firstly, I viewed the Pull Requests from the main menu in GitHub to view awaing PRs (fig 1)
+Firstly, I viewed the Pull Requests from the main menu in GitHub to view awaing PRs (fig 1).  The top PR was selected
 
 ![](images/github-see-pull-request.png "")
 
 **fig 1 (view pull requests)**
 
+Next, the link circled in red was clicked (fig 2) to view changes made in the pull request (fig 3)
+
+![](images/github-select-pull-request.png "")
+
+**fig 2 (select PR link)***
+
+The code marked in green in figure 3 is the requested changes made. This was the code that was reviewed
+
+![](images/github-push-see-changes.png "")
+
+**fig 3 (view PR request code)***
