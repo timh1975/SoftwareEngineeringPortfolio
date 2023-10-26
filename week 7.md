@@ -10,7 +10,7 @@ Here, I am reviewing the datatabase constrants class directly in GitHub.
 
 Firstly, I viewed the Pull Requests from the main menu in GitHub to view awaing PRs (fig 1)
 
-![](/images/github-see-pull-requests"")
+![](/images/github-see-pull-request "")
 
 **fig 1 (view pull requests)**
 
