@@ -28,4 +28,17 @@ The code marked in green in figure 3 is the requested changes made. This was the
 
 The code was viewed line by line. This review was very straight forward as the constant class was the same as the ToDoList task.  The developer confirmed that their changes worked on their own feature branch. Given this and that the code matched the ToDoList project which I knew worked, I was able to approve the code and the PR merge into the development branch.
 
+Once the feedback was sent back to the developer, the merge process to the development branch began using the following steps
+
+![](images/github-merge-request.png "")
+
+**step 1 - click on Merge pull request
+
+![](images/github-confim-merge.png "")
+
+**step 2 - click on confirm merge
+
+![](images/github-confirmed.png "")
+
+**step 3 - merge of branches confirmed
 
