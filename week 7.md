@@ -38,7 +38,7 @@ Once the feedback was sent back to the developer, the merge process to the devel
 
 **step 2 - click on confirm merge**
 
-![](images/github-merged-confirmed.png "")
+![](images/github-merge-confirmed.png "")
 
 **step 3 - merge of branches confirmed**
 
