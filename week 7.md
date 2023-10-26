@@ -3,3 +3,8 @@
 
 
 ## Code Review
+
+The GitHub account was setup so that any merges from a feature branch to the development bracnh required a pull request.  The purpose of this was to ensure that the code can be viewed directly in GitHub prior to merge. If there was any issues with the code, the pull request could be revolked and feedback provided. That way the code would be kept clean prior to merging.
+
+Here, I am reviewing the datatabase constrants class directly in GitHub. The changes are marked in green
+
