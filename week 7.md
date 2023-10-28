@@ -13,7 +13,7 @@ Accepted an issue from the backlog before starting on the new feature branch.
 
 ## Follow the team workflow through to pull request
 
-Prior to undertaking the new feature for the issue, the issue was moved from the kanban board to the in progress status.  Once I tested my branch on my local machine, I requested a pull request for a code review. A code was identified and fixed as discussed later.
+Prior to undertaking the new feature for the issue, the issue was moved from the kanban board to the in progress status.  Once I tested my branch on my local machine, I requested a pull request for a code review. A code was identified and fixed as discussed later. Once the fix was appleid and feature branch pushed to github, the issue was moved to the tested/ready section of the kanban board.
 
 ## Add document comments
 
