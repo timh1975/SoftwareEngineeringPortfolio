@@ -15,7 +15,7 @@ Firstly, selelec the Pull Request section in the header and click on the branch 
 
 ![](images/git-see-pull-request.png "")
 
-**fig 2 (view pull requests)**
+**fig 1 (view pull requests)**
 
 Next, find the commit you wish to perform a code reivew on (fig 2)
 
