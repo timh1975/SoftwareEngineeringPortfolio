@@ -1,6 +1,6 @@
 ## Contents
 1.  [Code Review](#code_review)
-2.  [Merge feature branch into development] (#merge-feature-branch-into-development)
+2.  [Merge feature branch into development](#merge-feature-branch-into-development)
 
 
 ## Code Review
@@ -31,21 +31,25 @@ The code marked in green in figure 3 is the requested changes made. This was the
 
 The code base marked in green was reviewed.  Once reviewed, click on Review Changes button on the top right hand side of the scren. Here, you can leave a comment, approve the request or request changes. Please note that the personal who created the Pull Request cannot approval or request their own changes (fig 4)
 
+In the Pull requests tab, click on Merge Pull request (fig 4)
+
 ![](images/git-leave-review.png "")
 
 **fig 4 (comment and approve/reject pull request)**
 
 ## Merge feature branch into development 
 
+
+
 ![](images/github-merge-request.png "")
 
-**step 1 - click on Merge pull request**
+**step 5 - click on Merge pull request**
 
 ![](images/github-confirm-merge.png "")
 
-**step 2 - click on confirm merge**
+**step 6 - click on confirm merge**
 
 ![](images/github-merge-confirmed.png "")
 
-**step 3 - merge of branches confirmed**
+**step 7 - merge of branches confirmed**
 
