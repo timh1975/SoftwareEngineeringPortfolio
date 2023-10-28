@@ -1,7 +1,17 @@
 ## Contents
-1.  [Code Review](#code_review)
-2.  [Merge feature branch into development](#merge-feature-branch-into-development)
+1. [Accept an issue from the backlog](#accept-an-issue-from-the-backlog)
+2. [Follow the team workflow through to pull request](#follow-the-team-workflow-through-to-pull-reques)
+3. [Add document comments](#add-document-comments)
+4. [Code Review](#code_review)
+5. [Merge feature branch into development](#merge-feature-branch-into-development)
+6. [Fix indentified problems](#fix-identified-problems)
 
+
+## Accept an issue from the backlog
+
+## Follow the team workflow through to pull request
+
+## Add document comments
 
 ## Code Review
 
@@ -35,6 +45,7 @@ The code base marked in green was reviewed.  Once reviewed, click on Review Chan
 
 **fig 4 (comment and approve/reject pull request)**
 
+
 ## Merge feature branch into development 
 
 In the Pull requests tab, click on Merge Pull request (fig 5)
@@ -55,3 +66,4 @@ Merge now confirmed
 
 **fig 7 - merge of branches confirmed**
 
+## Fix indentified problems
