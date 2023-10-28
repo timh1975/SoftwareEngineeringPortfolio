@@ -9,7 +9,11 @@
 
 ## Accept an issue from the backlog
 
+Accepted an issue from the backlog before starting on the new feature branch.
+
 ## Follow the team workflow through to pull request
+
+Prior to undertaking the new feature for the issue, the issue was moved from the kanban board to the in progress status.  Once I tested my branch on my local machine, I requested a pull request for a code review. A code was identified and fixed as discussed later.
 
 ## Add document comments
 
@@ -67,3 +71,5 @@ Merge now confirmed
 **fig 7 - merge of branches confirmed**
 
 ## Fix indentified problems
+
+Other students used my feature branch as a way of identifying how to write code to deal with the project. During this stage of them exploring my code base, it was identified that a line required to create a new database table in the local database was missing. Once this was identified, I updated my feature branch with the fix and psuhed back into github for code review.
