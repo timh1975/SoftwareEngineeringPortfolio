@@ -1,34 +1,41 @@
 ## Contents
 1.  [Code Review](#code_review)
+2.  [Merge feature branch into development] (#merge-feature-branch-into-development)
 
 
 ## Code Review
 
-The GitHub account was setup so that any merges from a feature branch to the development bracnh required a pull request.  The purpose of this was to ensure that the code can be viewed directly in GitHub prior to merge. If there was any issues with the code, the pull request could be revolked and feedback provided. That way the code would be kept clean prior to merging.
+Prior to merging the feature branch into the devleopment, a code review on GitHub project repo is required first.
 
-Here, I am reviewing the datatabase constrants class directly in GitHub. 
+In this scenario, I reviewed the code that sets up the initiation of the database. Given that the same code applies to the ToDoList and that the developer confirmed that it worked on their local machine, I was able to review and approve the code segment quickly.
 
-Firstly, I viewed the Pull Requests from the main menu in GitHub to view awaing PRs (fig 1).  The top PR was selected
+Below, shows how I did this directly in the GitHub repo.
 
-![](images/github-see-pull-request.png "")
+Firstly, selelec the Pull Request section in the header and click on the branch you wish to review (fig 1)
 
-**fig 1 (view pull requests)**
+![](images/git-see-pull-request.png "")
 
-Next, the link circled in red was clicked (fig 2) to view changes made in the pull request (fig 3)
+**fig 2 (view pull requests)**
 
-![](images/github-select-pull-request.png "")
+Next, find the commit you wish to perform a code reivew on (fig 2)
 
-**fig 2 (select PR link)**
+![](images/git-select-code-to-reivew.png "")
+
+**fig 2 (select commit to review)**
 
 The code marked in green in figure 3 is the requested changes made. This was the code that was reviewed
 
-![](images/github-push-see-changes.png "")
+![](images/git-reivew-code.png "")
 
 **fig 3 (view PR request code)**
 
-The code was viewed line by line. This review was very straight forward as the constant class was the same as the ToDoList task.  The developer confirmed that their changes worked on their own feature branch. Given this and that the code matched the ToDoList project which I knew worked, I was able to approve the code and the PR merge into the development branch.
+The code base marked in green was reviewed.  Once reviewed, click on Review Changes button on the top right hand side of the scren. Here, you can leave a comment, approve the request or request changes. Please note that the personal who created the Pull Request cannot approval or request their own changes (fig 4)
 
-Once the feedback was sent back to the developer, the merge process to the development branch began using the following steps
+![](images/git-leave-review.png "")
+
+**fig 4 (comment and approve/reject pull request)**
+
+## Merge feature branch into development 
 
 ![](images/github-merge-request.png "")
 
