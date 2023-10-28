@@ -19,13 +19,13 @@ Firstly, selelec the Pull Request section in the header and click on the branch 
 
 Next, find the commit you wish to perform a code reivew on (fig 2)
 
-![](images/git-select-code-to-reivew.png "")
+![](images/git-select-code-to-review.png "")
 
 **fig 2 (select commit to review)**
 
 The code marked in green in figure 3 is the requested changes made. This was the code that was reviewed
 
-![](images/git-reivew-code.png "")
+![](images/git-review-code.png "")
 
 **fig 3 (view PR request code)**
 
