@@ -1,6 +1,6 @@
 ## Contents
 1. [Accept an issue from the backlog](#accept-an-issue-from-the-backlog)
-2. [Follow the team workflow through to pull request](#follow-the-team-workflow-through-to-pull-reques)
+2. [Follow the team workflow through to pull request](#follow-the-team-workflow-through-to-pull-request)
 3. [Add document comments](#add-document-comments)
 4. [Code Review](#code_review)
 5. [Merge feature branch into development](#merge-feature-branch-into-development)
