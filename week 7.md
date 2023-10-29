@@ -17,6 +17,8 @@ Prior to undertaking the new feature for the issue, the issue was moved from the
 
 ## Add document comments
 
+Doxygen was used to create documentation of the class/methods that I created for my feature branch.  This was copied and pasted into a markdown file and stored in GitHub repo.
+
 ## Code Review
 
 Prior to merging the feature branch into the devleopment, a code review on GitHub project repo is required first.
