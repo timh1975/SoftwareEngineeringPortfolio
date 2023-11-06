@@ -10,9 +10,15 @@ The table structures were added to the models architucture. The example below (f
 
 ![](/images/week9-add-model.png "")
 
+A seperate database class was created to store the CRUD functions for the Equipment related tables.  In figure 2, the InitiateDataBase method creates a new local database if it does not already exists 
+
 **fig 1 (Equipment Table model)**
   
 
 ## Code Review
 
 ## Reflection
+
+The following reflections were made from this portfolio
+
+1.  There could be a debate of having a database class for each of the equipment related tables. However, it was decided to keep them in one database class using the following that the InitateDataBase function creates all related equipoment tables. This was decided to do this in one function given that they are linked with foreign keys. This was to minimise the risk of tables not being created properly if a foreign key does not yet reference an existing table.  Furthermore, given that there were only 8 methods, it was decided that this was not too much for one class.
