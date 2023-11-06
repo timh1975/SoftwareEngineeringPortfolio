@@ -16,6 +16,9 @@ A seperate database class was created to store the CRUD functions for the Equipm
 
 ![](/images/week9-add-initiate.png "")
   
+**fig 2 (Initiate Database and tables)**
+
+The code below shows 2 CRUD methods in the database class. They have comments placed on top to add Doxygen documents, have single responsbility and short.  Improvments would include changing the name strings in line 80 to something more meaningfull, such as names_returned. The SQL statement for the GetEquipment method is vulnerable to SQL injection attacks as the serach query is embedded in the statement.  Given the scope of this project, it was decided not to add protection this week. However, this is something I will learn and implement in future projects. 
 
 ## Code Review
 
@@ -30,4 +33,5 @@ The following reflections were made from this portfolio
      2.2  Datasets would need to be provded to be added to the local database to sync up data.
      2.3  Not having a fully sync database would provide difficulty in testing for system wide compatability.
 
-3.  No unit tesing was put in place. I was able to figure out using mock tests for this week. This is an area I recognise I need to gain knowledge and skilsl on for both the project module for semester 2, as well as for professional practice. 
+3.  No unit tesing was put in place. I was able to figure out using mock tests for this week. This is an area I recognise I need to gain knowledge and skilsl on for both the project module for semester 2, as well as for professional practice.
+4.  Given that SQL injection vulnerability was recognised, I would need to read up on optimising SQL statments to mitigate for these risks.  
