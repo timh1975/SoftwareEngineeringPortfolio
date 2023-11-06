@@ -14,7 +14,7 @@ The table structures were added to the models architucture. The example below (f
 
 A seperate database class was created to store the CRUD functions for the Equipment related tables.  In figure 2, the InitiateDataBase method creates a new local database if it does not already exists 
 
-
+![](/images/week9-add-initiate.png "")
   
 
 ## Code Review
