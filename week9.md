@@ -32,16 +32,33 @@ There are three seperate views for the graphical interface which was added to th
 
 The example below shows how the Allocate Equipmenht view works
 
-  1. Firstly, I want to create an equipment type called IT.  I need to go into Add Equipment Type screen (fig 3).  If I dont know if it already exists, I select the View Equipment Types button to view all the available types (fig 4). If it does not exists, I added a new one and clicked on add (fig 5)
-  2. Back on the Add Equipment screen, I enter the new equipment (fig 6)
-  3. At the Allocate Equipment page, select the equipment name and click on search to bring up a list that matches that name (fig 7).  The selected equipment will then be displayed
-  4. Enter the request, start and end dates before saving (fig 7), along with rota ID and opertion ID.  In the complete application, these IDs would be treated as foreign keys to the appropriate table(s).
+ 
      
+![](/images/week9-view-type.png "")
 
+**fig 3(View list of avaiable equipoment types)**
+
+![](/images/week9-add-type.png "")
+
+**fig 4(Add Equipment Type)**
+
+![](/images/week9-add-equipment.png "")
+
+**fig 5(Add Equipment)**
+
+![](/images/week9-add-equipment-to-allocate.png "")
+
+**fig 6(Search and select equipoment)**
 
 Data validation was added to the Add Equipment page to ensure that all the fields are not null before saving (fig 8).  The code segment below shows this error capture (fig 9)
   
+![](/images/week9-add-allocation)
 
+**fig 7(Add Date, rota and operation id)**
+
+![](/images/week9-error-capture)
+
+**fig 8(Error capturing)**
 
 
 ## Code Review
