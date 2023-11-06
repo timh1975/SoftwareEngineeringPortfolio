@@ -52,7 +52,7 @@ The example below shows how the Allocate Equipmenht view works
 
 Data validation was added to the Add Equipment page to ensure that all the fields are not null before saving (fig 8).  The code segment below shows this error capture (fig 9)
   
-![](/images/week9-add-allocation.pgn)
+![](/images/week9-add-allocation.png)
 
 **fig 7(Add Date, rota and operation id)**
 
