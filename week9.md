@@ -46,12 +46,17 @@ Fig 4 shows how the error capture is handled if the validation is false, by the 
 
 **fig 5(Error capture handling in AddEquipment method)**
 
-
 ## Documentation
 
 
 
 ## Code Review
+
+I undertook the code view (fig 6). Whilst most of the code was clean, it did lack comments and some lines of code was commented out.  I provided this in a feedback (fig 7)
+and requested for changes.
+
+
+
 
 ## Reflection
 
