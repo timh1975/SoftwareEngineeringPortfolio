@@ -56,7 +56,7 @@ and requested for changes.
 
 **fig 6 (Code Review Example)**
 
-![](/images/week9-code=review-feedback.png "")
+![](/images/week9-code-review-feedback.png "")
 
 **fig 7(Review feedback)**
 
