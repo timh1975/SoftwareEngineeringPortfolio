@@ -44,7 +44,7 @@ Fig 4 shows how the error capture is handled if the validation is false, by the 
 
 ![](/images/week9-error-capture-in-method.png "")
 
-**fig 5(Error capture handling in AddEquipmnent method)**
+**fig 5(Error capture handling in AddEquipment method)**
 
 
 ## Documentation
