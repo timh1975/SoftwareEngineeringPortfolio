@@ -30,35 +30,16 @@ The code below shows 2 CRUD methods in the database class. They have comments pl
 
 There are three seperate views for the graphical interface which was added to the view model. A equipment UI was created with three buttons: add equipment type, add equipment and allocate equipment.
 
-The example below shows how the Allocate Equipmenht view works
+Error capturing was added to the Add Equipment Page. Fig 3 shows an error message when data fields are null prior to saving.  Fig 4 shows the code that validates user input by checking if the editor boxes is null. If so, it returns false.
 
- 
-     
-![](/images/week9-view-type.png "")
-
-**fig 3(View list of avaiable equipoment types)**
-
-![](/images/week9-add-type.png "")
-
-**fig 4(Add Equipment Type)**
-
-![](/images/week9-add-equipment.png "")
-
-**fig 5(Add Equipment)**
-
-![](/images/week9-add-equipment-to-allocate.png "")
-
-**fig 6(Search and select equipoment)**
-
-Data validation was added to the Add Equipment page to ensure that all the fields are not null before saving (fig 8).  The code segment below shows this error capture (fig 9)
-  
-![](/images/week9-add-allocation.png)
-
-**fig 7(Add Date, rota and operation id)**
+Fig 4 shows how the error capture is handled if the validation is false, by the use of a condition. If it is false, a error message will apear as in fig 3, otherwise it will save the record
 
 ![](/images/week9-error-capture.png)
 
-**fig 8(Error capturing)**
+**fig 3(Error capturing)**
+
+## Documentation
+
 
 
 ## Code Review
