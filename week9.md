@@ -34,11 +34,17 @@ Error capturing was added to the Add Equipment Page. Fig 3 shows an error messag
 
 Fig 4 shows how the error capture is handled if the validation is false, by the use of a condition. If it is false, a error message will apear as in fig 3, otherwise it will save the record
 
-![](/images/week9-error-capture.png)
+![](/images/week9-error-capture.png "")
 
 **fig 3(Error capturing)**
 
+![](/images/week9-validate-date.png "")
 
+**fig 4(Validate user input method)**
+
+![](/images/week9-error-capture-in-method.png "")
+
+**fig 5(Error capture handling in AddEquipmnent method)**
 
 
 ## Documentation
