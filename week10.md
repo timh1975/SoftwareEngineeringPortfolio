@@ -15,7 +15,7 @@ Firstly, I added comments in the reivew and approved (fig 1)
 
 The branch had conflicts that had to be resolved (fig 2). This is because the feature branch had code that conflicts on the same lines as the development branch. I would have to review where the code conflicts occured and decided on wheather to accept the code changes in the feature branch I reviewed, or keep the orginal code.  
 
-![](/images/week10-github-merge.issues.png "")
+![](/images/week10-github-merge-issues.png "")
 
 **fig 2**
 
