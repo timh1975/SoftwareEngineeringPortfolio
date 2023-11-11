@@ -3,13 +3,13 @@ For this week's portfolio, I will focus on code review from pull requests, manag
 
 ## Checking on Pull Requests ##
 
-I read through the existing pull requests, looking for those who have had code reviews and ready for merging.  I undertook a check that the comments for the code reivew I undertok last week had been actioned. (fig 1)
+I read through the existing pull requests, looking for those who have had code reviews and ready for merging.  I undertook a check that the comments for the code reivew I undertok last week had been actioned. (fig 1).  The request asked that comments were added and that commented out code was removed.
 
 ![](/images/week10-check-changes-made.png "")
 
 **fig 1**
 
-The feature branch was ready for merging into the development branch. I added comments in the reivew and approved (fig 2)
+Once the reive of changes were confrime, I added comments in the reivew and approved (fig 2). The next step was to merge the feature branch into the development branch.
 
 ![](/images/week10-code-review-completed.png "")
 
