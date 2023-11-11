@@ -1,5 +1,7 @@
 
-For this week's portfolio, I will focus on code review, managing conflict errors and merging feature branches into the development branch.
+For this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
+
+## Checking on Pull Requests ##
 
 ## Code Review ##
 
@@ -37,6 +39,10 @@ Using Visual Studio code as a code editor, I opened each file that had the merge
 
 **fig 5**
 
+The example below 
+
 ![](/images/week10-correcting-merge-conflict-complex.png "")
 
 **fig 6**
+
+## Merging branches ##
