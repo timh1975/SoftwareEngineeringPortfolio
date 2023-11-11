@@ -39,7 +39,7 @@ Using Visual Studio code as a code editor, I opened each file that had the merge
 
 **fig 5**
 
-The example below 
+The example below is more complicated. Here, new and updated Nugent packages have been added to the repository.  I decided to accept incoming changes to allow for package updages and import packages that were required for the feature.  However, this is not always the best approach as updates could stop existing code from working properly.  This issue was experienced during the Software Engineering Methods project where GitHub actions failed due to a mismatch/incompatable package versions.
 
 ![](/images/week10-correcting-merge-conflict-complex.png "")
 
