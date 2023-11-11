@@ -33,7 +33,7 @@ The git status command showed the files that had the conflicts marked in red (fi
 
 Using Visual Studio code as a code editor, I opened each file that had the merge conflicts.  The example below in figure 5 is stragith forward.  The using System line looks identical, with the only difference being all being a space which was enought for git to see this as a change.  All I needed to do was accept the incoming change (from the feature branch I was reviewing) as this one had the line removed.
 
-![](/images/week10-corecting-merge-conflict.png "")
+![](/images/week10-correcting-merge-conflict.png "")
 **fig 5**
 
 
