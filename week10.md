@@ -43,8 +43,10 @@ The example below is more complicated. Here, new and updated Nugent packages hav
 
 ![](/images/week10-correcting-merge-conflict-complex.png "")
 
-Once 
-
 **fig 6**
 
-## Merging branches ##
+Once the conflicts had been resolved, the feature branch was merged into the devleopment branch
+
+![](/images/week10-mrge-request.png "")
+
+**fig 7**
