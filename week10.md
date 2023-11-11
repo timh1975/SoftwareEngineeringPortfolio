@@ -9,7 +9,7 @@ I read through the existing pull requests, looking for those who have had code r
 
 **fig 1**
 
-Once the reive of changes were confrime, I added comments in the reivew and approved (fig 2). The next step was to merge the feature branch into the development branch.
+Once the reive of changes were confirmed, I added comments in the reivew and approved (fig 2). The next step was to merge the feature branch into the development branch.
 
 ![](/images/week10-code-review-completed.png "")
 
@@ -17,7 +17,7 @@ Once the reive of changes were confrime, I added comments in the reivew and appr
 
 ## Conflict Management ##
 
-The branch had conflicts that had to be resolved (fig 3). This is because the feature branch had code that conflicts on the same lines as the development branch. I would have to review where the code conflicts occured and decided on wheather to accept the code changes in the feature branch I reviewed, or keep the orginal code.  
+Once the code was reviewed, I was ready to merge into the developement branch. However, as seen in figure 3, there were merge conflicts I had to address first. This is because the feature branch had code that conflicts on the same lines as the development branch. I would have to review where the code conflicts occured and decided on wheather to accept the code changes in the feature branch I reviewed, or keep the orginal code.  
 
 ![](/images/week10-github-merge-issues.png "")
 
@@ -53,4 +53,4 @@ Once the conflicts had been resolved, the feature branch was merged into the dev
 
 **fig 8**
 
-
+There were other Pull Requests 
