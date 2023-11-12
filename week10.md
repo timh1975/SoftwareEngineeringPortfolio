@@ -55,8 +55,18 @@ Once the conflicts had been resolved, the feature branch was merged into the dev
 
 There were other Pull Requests that had more straight forward merge conflicts that can be directly fixed in GitHub.  This can be identified by not have a greyed out Rosolved Conflicts button is shown in figure 2.
 
-In 
+Figure 9 shows what a file with a merge conflict appears like.  The code between <HEAD in line 38 and==== on line 43 is the original code, known as Current Change. Code below 43 is the code that is going to replace the original code, known as Incoming Change. 
+
+GitHub tracks changes from line to line. Even if a valid block of code is inserted above an existing block of code, GitHub can view this as a merge conflict.  Where this is the case, <<<, Head, ==== and  >>> lines would be removed and changes would be commited.
+
+In GitHub, the file was opened for editing and <Head along with === and >> removed. A closed bracket has added to line 43. The changes were then commited directly to the feature branch file.  Figure 10 shows the changes made to that file 
+
+Once all the conflict merges were 
 
 ![](/images/week10-fixing-conflict-github.png "")
 
 **fig 9**
+
+![](/images/week10-fixing-conflict-github-fixed.png "")
+
+**fig 10**
