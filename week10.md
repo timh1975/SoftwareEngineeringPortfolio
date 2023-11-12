@@ -110,8 +110,8 @@ Figure 12 shows a snippet of code before amendments were made. Here an instance 
 
 This week, I had the following reflections
 1.  Need to commit changes to git more often to prevent merge conflicts on my local repository.
-2.  Need to observe GitHub more frequently to action approved pull requests so that everyone can take advantaged of updated development branch.
-3.  Need to be more careful when applying merge conflict edits directly in GitHub so I dont accidently remove valid syntax.
+2.  Need to observe GitHub more frequently to action approved pull requests so that everyone can take advantage of updated development branch.
+3.  Need to be more careful when making merge conflict edits directly in GitHub so I dont accidently remove valid syntax.
 4.  Need to ensure that variable naming is consistent and clear, particularly with database class instances.
 5.  One of my colleagues have started applying the View/ViewModel/Model architecture. Need to start exploring this for my next issue.
 
