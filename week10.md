@@ -5,7 +5,7 @@
 2.  [Conflict Management](#conflict-management)
 3.  [Correcting peer code review](#correcting-peer-code-reivew)
 4.  [Reflection](#reflection)
-5.  
+
 In this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
 
 ## Checking on Pull Requests ##
@@ -86,4 +86,35 @@ Once the Pull Requests have been approved and merged, the issue in GitHub Projec
 
 ## Correcting peer code review ##
 
+I received feedback from my code review from last weeek with the following comments
+
+1.  Variable names should be readable. E.g.: instead of ea --> equipmentAllocation or equipmentAlloc (EquipmentDB.cs > AddEquipmentAllocation() method)
+2.  Doxygen comments were added for the View classes, on the other hand, a summary comment on the top of the Page class could have been added to explain the Page's general functionality/purpose
+3.  No doxygen comments added for the Model classes
+
+    My colleauge and I agreed to push my feature branch to the devleopment branch given that the feedback was on the comments, rather than the codebase itself. Furthremore, I thought that this was most appropriate so that my code can be incorporated into the remote codebase for the benefit of others. For example, they can access the data models and database class if their issues require access to my database objects.
+
+Despite this, I decided to incorporate the requested comments.  I created a new feature branch based on the remote development and added the comments. Once completed, pushed it back and requested a pull request.
+
+Figure 12 shows a snippet of code before amendments were made. Here an instance of the Equipment model was named as eq. In figure 13, this was changed to equipment.
+
+![](/images/week10-own-code-review-pre-fix.png "")
+
+**fig 11**
+
+![](/images/week10-own-code-review-post-fix.png "")
+
+**fig 12**
+
 ## Reflection ##
+
+This week, I had the following reflections
+1.  Need to commit changes to git more often to prevent merge conflicts on my local repository.
+2.  Need to observe GitHub more frequently to action approved pull requests so that everyone can take advantaged of updated development branch.
+3.  Need to be more careful when applying merge conflict edits directly in GitHub so I dont accidently remove valid syntax.
+4.  Need to ensure that variable naming is consistent and clear, particularly with database class instances.
+5.  One of my colleagues have started applying the View/ViewModel/Model architecture. Need to start exploring this for my next issue.
+
+   On reflection, this week provided an opportunity to learn how to approve pull request and merge these branches.  It provided execellent exposure to dealing with merge conflicts in the git bash shell and learnt what needs to be removed from affected files, making sure header details are moved and how to select either an incoming or current change. 
+
+The aims of the next few weeks is to apply the View/ViewModel/Model architecture to my next issues.
