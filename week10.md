@@ -2,6 +2,9 @@
 
 ## Contents
 [Checking on Pull Requests](#checking-on-pull-requests)
+[Conflict Management](#conflict-management)
+[Correcting peer code review](#correcting-peer-code-reivew)
+[Reflection](#reflection)
 
 
 In this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
@@ -82,4 +85,6 @@ Once the Pull Requests have been approved and merged, the issue in GitHub Projec
 
 **fig 11**
 
+## Correcting peer code review ##
 
+## Reflection ##
