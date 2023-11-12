@@ -1,5 +1,7 @@
+### Tim Honisett - Portfolio for Week 10
 
-For this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
+
+In this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
 
 ## Checking on Pull Requests ##
 
@@ -70,3 +72,5 @@ Once all the conflict merges were
 ![](/images/week10-fixing-conflict-github-fixed.png "")
 
 **fig 10**
+
+On of 
