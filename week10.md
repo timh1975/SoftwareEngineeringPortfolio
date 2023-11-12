@@ -55,6 +55,8 @@ Once the conflicts had been resolved, the feature branch was merged into the dev
 
 There were other Pull Requests that had more straight forward merge conflicts that can be directly fixed in GitHub.  This can be identified by not have a greyed out Rosolved Conflicts button is shown in figure 2.
 
+In 
+
 ![](/images/week10-fixing-conflict-github.png "")
 
 **fig 9**
