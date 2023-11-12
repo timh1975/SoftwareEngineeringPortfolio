@@ -1,12 +1,11 @@
 # Tim Honisett - Portfolio for Week 10 #
 
 ## Contents
-[Checking on Pull Requests](#checking-on-pull-requests)
-[Conflict Management](#conflict-management)
-[Correcting peer code review](#correcting-peer-code-reivew)
-[Reflection](#reflection)
-
-
+1.  [Checking on Pull Requests](#checking-on-pull-requests)
+2.  [Conflict Management](#conflict-management)
+3.  [Correcting peer code review](#correcting-peer-code-reivew)
+4.  [Reflection](#reflection)
+5.  
 In this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
 
 ## Checking on Pull Requests ##
