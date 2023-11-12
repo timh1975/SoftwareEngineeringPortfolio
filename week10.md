@@ -1,4 +1,4 @@
-### Tim Honisett - Portfolio for Week 10
+# Tim Honisett - Portfolio for Week 10 #
 
 
 In this week's portfolio, I will focus on code review from pull requests, managing conflict errors and merging feature branches into the development branch.
