@@ -71,4 +71,12 @@ In GitHub, the file was opened for editing and <Head along with === and >> remov
 
 **fig 10**
 
-There were two risk indentified when editing merge conflict errors directly in GitHub, when compared to using an IDE. Firstly,  is that HEAD markers such as <, = and > need to be removed as they are interpreted as syntax code erors. Secondly, valid code syntax would be removed. 
+There were two risk indentified when editing merge conflict errors directly in GitHub, when compared to using an IDE. Firstly,  is that HEAD markers such as <, = and > need to be removed as they are interpreted as syntax code erors. Secondly, valid code syntax would be removed. The second example happened after I fixed an issue directly in GitHub. This was undertaken by correcting the issue directly in GitHub and in my local repository.
+
+Once the Pull Requests have been approved and merged, the issue in GitHub Projects was moved from Ready To Merge to Completed (fig 11).
+
+![](/images/wek10-github-project-board.png "")
+
+**fig 11**
+
+
