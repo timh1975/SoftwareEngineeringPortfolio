@@ -32,22 +32,4 @@ Once the merge conflicts were fixex, a code reivew was undertaken
 
 ## Code Review
 
-In figure 6, it was noted that the OnClickSave event initiation of the FinanceModel class referenced the GetNewParter.  Instead of FinanceModel newTask = GetNewPartner, it should have been something similiar to FinanceModel financeModel - FinanceModel.  
-
-![](/images/week11-code-review1.png " ")
-
-**figure 6 (code review example 1)**
-
-![](/images/week11-code-review1-comments.png " ")
-
-**figure 7 (code review 1 comments)**
-
-The review example in figure 8 lacked comments. However, it was recognised that there was a newer feature branch which superceeded it to fix some issues. Here, the code was commented.
-
-![](/images/week11-code-review2.png " ")
-
-**figure 8 (code review example 2)**
-
-![](/images/week11-code-review3.png " ")
-
-In figure 10, lines of 
+In the first two code reviews, 2 issues were identified.  In figure 6a, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure 6b, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure 7 shows the comments 
