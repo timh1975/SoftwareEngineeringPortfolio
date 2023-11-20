@@ -42,7 +42,7 @@ Here, it was noted there was a merge conflict. This needed to be fixed prior to 
 
 **figure 3 (Merge conflict)**
 
-Figure 4 shows the conflict.  This was very straight forward to fix as there was no issue with the code. Instead, it was a case of removing git Header information, inlcuding HEAD, <<<< and  >>>> symbols as well as the name of the branches.  Changes can be seen in figure 4
+Figure 4 shows the conflict.  This was very straight forward to fix as there was no issue with the code. Instead, it was a case of removing git Header information, inlcuding HEAD, <<<< and  >>>> symbols as well as the name of the branches.  Changes can be seen in figure 5
 
 ![](/images/week11-pre-merge-conflict-fix.png "")
 
