@@ -33,3 +33,17 @@ Once the merge conflicts were fixex, a code reivew was undertaken
 ## Code Review
 
 In the first two code reviews, 2 issues were identified.  In figure 6a, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure 6b, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure 7 shows the comments 
+
+![](/images/week11-review1a.png " ")
+
+**figure 6a (Incorrect instance usage)**
+
+![](/images/week11-review1b.png " ")
+
+**figure 6b (Unclear control item names)**
+
+![](/images/week11/code-review1-comments.png " ")
+
+**figure 7(Code review 1 comments)**
+
+
