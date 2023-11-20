@@ -38,7 +38,7 @@ In figure 6, it was noted that the OnClickSave event initiation of the FinanceMo
 
 **figure 6 (code review example 1)**
 
-![])(/images/week11-code-review1-comments.png " ")
+![](/images/week11-code-review1-comments.png " ")
 
 **figure 7 (code review 1 comments)**
 
