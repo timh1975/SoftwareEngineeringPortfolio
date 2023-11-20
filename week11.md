@@ -42,8 +42,8 @@ In the first two code reviews, 2 issues were identified.  In figure 6a, the User
 
 **figure 6b (Unclear control item names)**
 
-![](/images/week11/week11-code-review1-comments.png " ")
+![](/images/week11-code-review1-comments.png " ")
 
 **figure 7(Code review 1 comments)**
 
-a
+
