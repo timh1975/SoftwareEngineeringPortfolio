@@ -16,16 +16,16 @@ Here, it was noted there was a merge conflict. This neede to be fixed prior to c
 
 ![](/images/week11-merge-conflict.png "")
 
-** figure 3 (Merge conflict)
+** figure 3 (Merge conflict) **
 
 Figure 4 shows the conflict.  This was very straight forward to fix as there was no issue with the code. Instead, it was a case of removing git Header information, inlcuding HEAD, <<<< and  >>>> symbols as well as the name of the branches.  Changes can be seen in figure 4
 
-![] (/images/week11-pre-merge-conflict-fix.png "")
+![](/images/week11-pre-merge-conflict-fix.png "")
 
-** figure 4 (merge conflicts prior to fixing)
+** figure 4 (merge conflicts prior to fixing) **
 
-![] (/images/week1-post-conflict-fix.png "")
+![](/images/week1-post-conflict-fix.png "")
 
-** figure 5 (merge conflicts fixed)
+** figure 5 (merge conflicts fixed) **
 
 
