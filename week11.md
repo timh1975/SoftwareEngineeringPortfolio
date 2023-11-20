@@ -14,6 +14,8 @@ In the example below, the Pull Request was not followed. Instead, it was indicat
 
 Here, it was noted there was a merge conflict. This neede to be fixed prior to code review, and based on the outcome, merged into the development branch.  Here, the conflicts could be resolved directly in GitHub (figure 3)
 
+## Merge Conflict Management
+
 ![](/images/week11-merge-conflict.png "")
 
 **figure 3 (Merge conflict)**
@@ -28,29 +30,36 @@ Figure 4 shows the conflict.  This was very straight forward to fix as there was
 
 **figure 5 (merge conflicts fixed)**
 
+Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur.
+
+
 Once the merge conflicts were fixex, a code reivew was undertaken
+
 
 ## Code Review
 
-In the first two code reviews, 2 issues were identified.  In figure 6a, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure 6b, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure 7 shows the comments 
+In the first two code reviews, 2 issues were identified.  In figure Xa, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure Xb, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure X shows the comments 
 
 ![](/images/week11-review1a.png " ")
 
-**figure 6a (Incorrect instance usage)**
+**figure Xa (Incorrect instance usage)**
 
 ![](/images/week11-review1b.png " ")
 
-**figure 6b (Unclear control item names)**
+**figure Xb (Unclear control item names)**
 
 ![](/images/week11-code-review1-comments.png " ")
-**figure 7(Code review 1 and comments)**
 
-In the third code review, 1 issue was identified.  There were commented out code sections. This is difficult to identify their purpose. Could be for the purpose of debugging which makes it unclear if the code is to be uncommented once it works. Another purpose in this scenario could be that the code would be uncommented until the table related to the foreign keys have been setup.  Either way, commented out code does not provide clarity for the purpose of that action (fig 8)
+**figure X(Code review 1 and comments)**
+
+In the third code review, 1 issue was identified.  There were commented out code sections. This is difficult to identify their purpose. Could be for the purpose of debugging which makes it unclear if the code is to be uncommented once it works. Another purpose in this scenario could be that the code would be uncommented until the table related to the foreign keys have been setup.  Either way, commented out code does not provide clarity for the purpose of that action (fig X)
 
 ![](/images/week11-review2.png " ")
-**Figure 8 (Code review 3)**
+
+**Figure X (Code review 3)**
 
 ![](/images/week11-review2-comments.png " ")
-**figure 9(Code review 3 comments)**
+
+**figure  (Code review 3 comments)**
 
 
