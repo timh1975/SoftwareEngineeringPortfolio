@@ -37,6 +37,7 @@ Whilst the above conflict merge could be fixed directly in GitHub, the example b
 **figure 6 (Command line conflict merge)**
 
 
+
 Once the merge conflicts were fixex, a code reivew was undertaken
 
 
