@@ -24,7 +24,7 @@ Figure 4 shows the conflict.  This was very straight forward to fix as there was
 
 ** figure 4 (merge conflicts prior to fixing) **
 
-![](/images/week11-post-conflict-fix.png "")
+![](/images/week11-post-merge-conflict-fix.png "")
 
 ** figure 5 (merge conflicts fixed) **
 
