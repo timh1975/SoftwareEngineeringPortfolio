@@ -36,7 +36,11 @@ Whilst the above conflict merge could be fixed directly in GitHub, the example b
 
 **figure 6 (Command line conflict merge)**
 
+To undertake this fix, the following instructions were used with git bash shell (figure 7)
 
+![](/images/week11-command-line-gitbash.png " ")
+
+**figure 7 (Command line input for git bash)**
 
 Once the merge conflicts were fixex, a code reivew was undertaken
 
