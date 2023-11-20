@@ -3,6 +3,10 @@
 ## Contents
 
 1.  [Workflow process](#workflow-process)
+2.  [Managing Pull Request](#managing-pull-request)
+3.  [Merge Conflict Management](#merge-conflict-management)
+4.  [Code Review](#code-review)
+5.  [Reflection](#reflection)
 
 ## Workflow process ##
 
