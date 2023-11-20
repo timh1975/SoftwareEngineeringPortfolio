@@ -44,6 +44,16 @@ In the first two code reviews, 2 issues were identified.  In figure 6a, the User
 
 ![](/images/week11-code-review1-comments.png " ")
 
-**figure 7(Code review 1 comments)**
+**figure 7(Code review 1 and comments)**
+
+In the third code review, 1 issue was identified.  There were commented out code sections. This is difficult to identify their purpose. Could be for the purpose of debugging which makes it unclear if the code is to be uncommented once it works. Another purpose in this scenario could be that the code would be uncommented until the table related to the foreign keys have been setup.  Either way, commented out code does not provide clarity for the purpose of that action (fig 8)
+
+![](/images/review2.png " ")
+
+**Figure 8 (Code review 3)
+
+![](/images/reivew2-comments.png " ")
+
+**figure 9(Code review 3 comments)**
 
 
