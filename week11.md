@@ -42,13 +42,13 @@ Here, it was noted there was a merge conflict. This needed to be fixed prior to 
 
 **figure 3 (Merge conflict)**
 
-Figure 4 shows the conflict.  This was very straight forward to fix as there was no issue with the code. Instead, it was a case of removing git Header information, inlcuding HEAD, <<<< and  >>>> symbols as well as the name of the branches.  Changes can be seen in figure 6.
+Figure 4 shows the conflict.  This was very straight forward to fix as there was no issue with the code. Instead, it was a case of removing git Header information, inlcuding HEAD, <<<< and  >>>> symbols as well as the name of the branches.  Changes can be seen in figure 5. Figure 6 shows which files have the merge conflicts.
 
 ![](/images/week11-pre-merge-conflict-fix.png "")
 
 **figure 4 (merge conflicts prior to fixing)**
 
-Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur. Figure 5 shows which files have the merge conflicts.
+Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur. 
 
 ![](/images/week11-post-merge-conflict-fix.png "")
 
