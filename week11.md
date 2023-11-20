@@ -14,7 +14,7 @@ The main areas in this portfolio focus on the the process of managing pull reque
 The processes are broken down into their own sections
 
 1.  Identify a feature branch that has a new pull request.  A pull request is made that identicates that it is ready for a code review.
-2.  Identify a feature branch that has any merge conflict. These were fixed so that if the code review was successfull, there would be no merge conflicts with the development branch which would cause issues with it and stop other team members from merging the remote development branch into their own local repo correctly.
+2.  Identify a feature branch that has any merge conflicts. These were fixed so that approved code can be merged successfully into the development branch without causing merge conflict errors on merge.
 3.  Code review using code smell and SOLID principles. Either approve or ask for changes
 4.  If the code review has been approved, merged with the development branch.  I would fetch these changes into my development branch to check that the development branch works correctly.
 
@@ -28,7 +28,7 @@ Example provided in figure 1.
 
 **figure 1 (Example of branch with new pull request**
 
-In the example below, the Pull Request workdlow was not followed. Instead, it was indicated as read for code review in GitHub Project.  Before I undertook the code, I needed to create a pull request, as per figure 2.  Once of the lessons learnt earlier as that the master branch is automatically selected as the base branch. In GitHub, I need to change the base branch to the development branch. This is to comply with the workflow that only tested code that passed code review would be merged into the development branch. Only once the project is completed, which included testing the development branch, would the development branch be finally merged into the master branch.  Here, the code would be ready for deployment
+In the example below, the Pull Request workflow was not followed. Instead, it was indicated as read for code review in GitHub Project.  Before I undertook the code, I needed to create a pull request, as per figure 2.  Once of the lessons learnt earlier as that the master branch is automatically selected as the base branch. In GitHub, I need to change the base branch to the development branch. This is to comply with the workflow that only tested code that passed code review would be merged into the development branch. Only once the project is completed, which included testing the development branch, would the development branch be finally merged into the master branch.  Here, the code would be ready for deployment
 
 ![](/images/week11-create-pull-request.png "")
 
@@ -106,4 +106,7 @@ In the third code review, 1 issue was identified.  There were commented out code
 
 The following are from this week's reflectins
 
-
+1.  The GitHub project view needs to be updated the the entire team when a workflow procedure has been completed. Not doing so makes the process of managing pull requests, code reviews and merges less efficient. I need to go into GHitHub and look at each branch to see what actions I need to undertake on them.
+2.  There needs to be better team instructions to minimise merge conflicts which is something I need to fix on the majority of pull requests. For example, ensuring that people are fetching the most recent remote repo and merging into their own local repo.
+3.  As a follow up from the last few weeks of the project, I have gained a greater knowledge on git and GHitHub. I am learning how to manage merge conflicts and have been able to correct the development remote branch where these issues have occured so that team members are able to push from the remote to fix issues on their local machine. I have had exposure on how to deal with merge conflicts both directly in GitHub and remotely using the git bash shell and editing files that are afftect. I have identied whether to accept incoming changes, or not.  If the incoming change includes extra libaries required for that feature branch, removing unncessary lines or code or new code that does not effect the rest of the code base then the changes would be accepted. However, if the incoming changes overwrites someone else's code, introduces code that would fail, or introducing libary versions that cause a compatability issue then the incoming branch would be rejected.
+4. For the last portfolio, I need to move my code to the View, ViewModel, Model example. This is for personal development as well as adopting the new architecture. I recognise that in the real world, updating achitecture during the development would not be appropriate as it makes the process less efficient given the required changes needed and the potential of introducing more complexity and errors. 
