@@ -1,6 +1,24 @@
+### Tim Honsett 40595819 ###
+
+## Contents
+
+1.  [Workflow process](#workflow-process)
+
+## Workflow process ##
+
+The main areas in this portfolio focus on the the process of managing pull requests, conflict merge fixes and conducting code reviews.  This in concordance of the agreed team workflow as briefly outlined below.
+The processes are broken down into their own sections
+
+1.  Identify a feature branch that has a new pull request.  A pull request is made that identicates that it is ready for a code review.
+2.  Identify a feature branch that has any merge conflict. These were fixed so that if the code review was successfull, there would be no merge conflicts with the development branch which would cause issues with it and stop other team members from merging the remote development branch into their own local repo correctly.
+3.  Code review using code smell and SOLID principles. Either approve or ask for changes
+4.  If the code review has been approved, merged with the development branch.  I would fetch these changes into my development branch to check that the development branch works correctly
+
 ## Managing Pull Request
 
-Before looking feature branches that required a code review at pull request stage, I looked at all the branches at New pull request status. Example provided in figure 1.
+Before looking feature branches that required a code review at pull request stage, I looked at all the branches at New pull request status.
+
+Example provided in figure 1.
 
 ![](/images/week11-check-pull-requests.png "")
 
@@ -12,9 +30,11 @@ In the example below, the Pull Request was not followed. Instead, it was indicat
 
 **figure 2 (Create a pull request)**
 
-Here, it was noted there was a merge conflict. This neede to be fixed prior to code review, and based on the outcome, merged into the development branch.  Here, the conflicts could be resolved directly in GitHub (figure 3)
+Here, it was noted there was a merge conflict. This needed to be fixed prior to code review, and based on the outcome, merged into the development branch.  Here, the conflicts could be resolved directly in GitHub (figure 3)
 
 ## Merge Conflict Management
+
+A merge conflict occurs when a line in a file in the local copy is different 
 
 ![](/images/week11-merge-conflict.png "")
 
@@ -27,8 +47,6 @@ Figure 4 shows the conflict.  This was very straight forward to fix as there was
 **figure 4 (merge conflicts prior to fixing)**
 
 Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur.
-
-
 
 ![](/images/week11-post-merge-conflict-fix.png "")
 
@@ -44,37 +62,42 @@ To undertake this fix, the following instructions were used with git bash shell 
 
 **figure 7 (Command line input for git bash)**
 
-GitHub shows which files have that have the conflicts as shown in figure 8
+![](/images/week11-file-conflict-fix.png " ")
 
+In figure 8, the TeamAlertsPage had a conflict merge.  Here, I accepted in incoming change as the ContentPage needs access to the Data folder.  Given that there is a team effort to move to the View, Model, ModelView architecture, adding a using statment to the Data folder would be in breach of that architecture. That is the Data Model must not be directly in communication to the Data Model. Instead, the ViewModel would facilitate communication between model and database.  As most of the views had not yet implemented the ViewModel module, it was decided to allow the incomming changes.
 
+If this project was to merge to the ViewModel architecutre, the pull request would have been declined with the request that the user updates their feature branch to comply with the architecture.
 
-Once the merge conflicts were fixex, a code reivew was undertaken
+**figure 8 (Fixing a conflict file )**
 
+Once the merge conflicts were fixed, a code reivew was undertaken
 
 ## Code Review
 
-In the first two code reviews, 2 issues were identified.  In figure Xa, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure Xb, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure X shows the comments 
+In practice, I would be able to view the Ready to Review tab in GitHub Project.  Unfortunately, this column has not been kept updated.  Instead, I checked for new pull requests in GitHub. This was because the agreed workflow is that a pull request is made once the code is ready for review.  Prior to review, any conflict merge conflicts would be fixed.  Once a review has been undertaken, it would be accepted or rejected with required changes. Only approved feature branches would be merged into the development branch.  
+
+In the first two code reviews, 2 issues were identified.  In figure 9a, the UserInput control names were not clearly defined as it was difficult to identify what data they are storing.  In figure 9b, there was no comemnts added to the methods. However, it was recognised that the superceeded fixes to the branch had the comments added.  Figure 10 shows the comments 
 
 ![](/images/week11-review1a.png " ")
 
-**figure Xa (Incorrect instance usage)**
+**figure 9a (Incorrect instance usage)**
 
 ![](/images/week11-review1b.png " ")
 
-**figure Xb (Unclear control item names)**
+**figure 9b (Unclear control item names)**
 
 ![](/images/week11-code-review1-comments.png " ")
 
-**figure X(Code review 1 and comments)**
+**figure 10(Code review 1 and comments)**
 
-In the third code review, 1 issue was identified.  There were commented out code sections. This is difficult to identify their purpose. Could be for the purpose of debugging which makes it unclear if the code is to be uncommented once it works. Another purpose in this scenario could be that the code would be uncommented until the table related to the foreign keys have been setup.  Either way, commented out code does not provide clarity for the purpose of that action (fig X)
+In the third code review, 1 issue was identified.  There were commented out code sections. This is difficult to identify their purpose. Could be for the purpose of debugging which makes it unclear if the code is to be uncommented once it works. Another purpose in this scenario could be that the code would be uncommented until the table related to the foreign keys have been setup.  Either way, commented out code does not provide clarity for the purpose of that action (fig 11)
 
 ![](/images/week11-review2.png " ")
 
-**Figure X (Code review 3)**
+**Figure 11 (Code review 3)**
 
 ![](/images/week11-review2-comments.png " ")
 
-**figure  (Code review 3 comments)**
+**figure 12  (Code review 3 comments)**
 
 
