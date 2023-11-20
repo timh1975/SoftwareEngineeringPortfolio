@@ -64,11 +64,11 @@ To undertake this fix, the following instructions were used with git bash shell 
 
 **figure 7 (Command line input for git bash)**
 
-![](/images/week11-file-conflict-fix.png " ")
-
 In figure 8, the TeamAlertsPage had a conflict merge.  Here, I accepted in incoming change as the ContentPage needs access to the Data folder.  Given that there is a team effort to move to the View, Model, ModelView architecture, adding a using statment to the Data folder would be in breach of that architecture. That is the Data Model must not be directly in communication to the Data Model. Instead, the ViewModel would facilitate communication between model and database.  As most of the views had not yet implemented the ViewModel module, it was decided to allow the incomming changes so that the feature branch would be functional in the development branch.
 
 If this project was to merge to the ViewModel architecutre, the pull request would have been declined with the request that the user updates their feature branch to comply with the architecture.
+
+![](/images/week11-file-conflict-fix.png " ")
 
 **figure 8 (Fixing a conflict file )**
 
