@@ -26,11 +26,11 @@ Figure 4 shows the conflict.  This was very straight forward to fix as there was
 
 **figure 4 (merge conflicts prior to fixing)**
 
+Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur. This is shown in figure 5
+
 ![](/images/week11-post-merge-conflict-fix.png "")
 
 **figure 5 (merge conflicts fixed)**
-
-Whilst the above conflict merge could be fixed directly in GitHub, the example below needs to be fixed using git bash command line and directly editing the files where the conflicts occur. This is shown in figure 6
 
 ![](/images/week11-conflict-command-line.png " ")
 
