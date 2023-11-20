@@ -28,4 +28,23 @@ Figure 4 shows the conflict.  This was very straight forward to fix as there was
 
 ** figure 5 (merge conflicts fixed) **
 
+Once the merge conflicts were fixex, a code reivew was undertaken
 
+## Code Review
+
+In figure 6, it was noted that the OnClickSave event initiation of the FinanceModel class referenced the GetNewParter.  Instead of FinanceModel newTask = GetNewPartner, it should have been something similiar to FinanceModel financeModel - FinanceModel.  Figure 7 shows comments I left.
+
+
+
+** figure 6 (code review example 1)
+
+
+** figure 7 (code review 1 comments)
+
+The review example in figure 8 lacked comments. However, it was recognised that there was a newer feature branch which superceeded it to fix some issues. Here, the code was commented.
+
+** figure 8 (code review example 2)
+
+
+
+In figure 10, lines of 
