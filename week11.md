@@ -16,7 +16,7 @@ The processes are broken down into their own sections
 1.  Identify a feature branch that has a new pull request.  A pull request is made that identicates that it is ready for a code review.
 2.  Identify a feature branch that has any merge conflict. These were fixed so that if the code review was successfull, there would be no merge conflicts with the development branch which would cause issues with it and stop other team members from merging the remote development branch into their own local repo correctly.
 3.  Code review using code smell and SOLID principles. Either approve or ask for changes
-4.  If the code review has been approved, merged with the development branch.  I would fetch these changes into my development branch to check that the development branch works correctly
+4.  If the code review has been approved, merged with the development branch.  I would fetch these changes into my development branch to check that the development branch works correctly.
 
 ## Managing Pull Request
 
@@ -28,7 +28,7 @@ Example provided in figure 1.
 
 **figure 1 (Example of branch with new pull request**
 
-In the example below, the Pull Request was not followed. Instead, it was indicated as read for code review in GitHub Project.  Before I undertook the code, I needed to create a pull request, as per figure 2.  Once of the lessons learnt earlier as that the master branch is automatically selected as the base branch. In GitHub, I need to change the base branch to the development branch. This is to comply with the workflow that only tested code that passed code review would be merged into the development branch. Only once the project is completed, which included testing the development branch, would the development branch be finally merged into the master branch.  Here, the code would be ready for deployment
+In the example below, the Pull Request workdlow was not followed. Instead, it was indicated as read for code review in GitHub Project.  Before I undertook the code, I needed to create a pull request, as per figure 2.  Once of the lessons learnt earlier as that the master branch is automatically selected as the base branch. In GitHub, I need to change the base branch to the development branch. This is to comply with the workflow that only tested code that passed code review would be merged into the development branch. Only once the project is completed, which included testing the development branch, would the development branch be finally merged into the master branch.  Here, the code would be ready for deployment
 
 ![](/images/week11-create-pull-request.png "")
 
@@ -37,8 +37,6 @@ In the example below, the Pull Request was not followed. Instead, it was indicat
 Here, it was noted there was a merge conflict. This needed to be fixed prior to code review, and based on the outcome, merged into the development branch.  Here, the conflicts could be resolved directly in GitHub (figure 3)
 
 ## Merge Conflict Management
-
-A merge conflict occurs when a line in a file in the local copy is different 
 
 ![](/images/week11-merge-conflict.png "")
 
@@ -68,7 +66,7 @@ To undertake this fix, the following instructions were used with git bash shell 
 
 ![](/images/week11-file-conflict-fix.png " ")
 
-In figure 8, the TeamAlertsPage had a conflict merge.  Here, I accepted in incoming change as the ContentPage needs access to the Data folder.  Given that there is a team effort to move to the View, Model, ModelView architecture, adding a using statment to the Data folder would be in breach of that architecture. That is the Data Model must not be directly in communication to the Data Model. Instead, the ViewModel would facilitate communication between model and database.  As most of the views had not yet implemented the ViewModel module, it was decided to allow the incomming changes.
+In figure 8, the TeamAlertsPage had a conflict merge.  Here, I accepted in incoming change as the ContentPage needs access to the Data folder.  Given that there is a team effort to move to the View, Model, ModelView architecture, adding a using statment to the Data folder would be in breach of that architecture. That is the Data Model must not be directly in communication to the Data Model. Instead, the ViewModel would facilitate communication between model and database.  As most of the views had not yet implemented the ViewModel module, it was decided to allow the incomming changes so that the feature branch would be functional in the development branch.
 
 If this project was to merge to the ViewModel architecutre, the pull request would have been declined with the request that the user updates their feature branch to comply with the architecture.
 
@@ -103,5 +101,9 @@ In the third code review, 1 issue was identified.  There were commented out code
 ![](/images/week11-review2-comments.png " ")
 
 **figure 12  (Code review 3 comments)**
+
+## Reflection
+
+The following are from this week's reflectins
 
 
