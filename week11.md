@@ -42,6 +42,10 @@ To undertake this fix, the following instructions were used with git bash shell 
 
 **figure 7 (Command line input for git bash)**
 
+GitHub shows which files have that have the conflicts as shown in figure 8
+
+
+
 Once the merge conflicts were fixex, a code reivew was undertaken
 
 
