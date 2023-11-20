@@ -12,4 +12,6 @@ In the example below, the Pull Request was not followed. Instead, it was indicat
 
 ** figure 2 (Create a pull request) **
 
+Here, it was noted there was a merge conflict. This neede to be fixed prior to code review, and based on the outcome, merged into the development branch.  Here, the conflicts could be resolved directly in GitHub (figure 3)
+
 
