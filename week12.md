@@ -29,9 +29,17 @@ I needed to resolve conflict merges prior to merging the feature branch into the
 
 ![](images/week12-reivew-conflict.png " ")
 
-**fig5**
+**fig 5**
 
 Here is an example of a merge conflict.  The branch that requires merges has conflicts on lines 62 where a <Button label should have been added(fig 6). This was fixed by adding the button element.  The MAUI page would have failed to load if this fix was not applied.  See figure 7 for the change made.
+
+![](images/week12-review1-pre-merge-fix.png " ")
+
+**fig 6**
+
+![](images/week12-post-conflict-merge.png " ")
+
+**fig 7**
 
 
 
