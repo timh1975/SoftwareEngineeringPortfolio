@@ -1,4 +1,4 @@
-# Portfolio - Week 12 - TIm Honisett - 40595819
+# Portfolio - Week 12 - Tim Honisett - 40595819
 
 ## Code Review 1 ##
 
