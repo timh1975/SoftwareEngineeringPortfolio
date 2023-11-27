@@ -3,7 +3,7 @@
 
 In the branch tab in GitHub, I could see that the below feature branch was ready for review (fig 1)
 
-![](images\week12-reivew1-ready.png "")
+![](images\week12-review1-ready.png "")
 
 **fig 1**
 
