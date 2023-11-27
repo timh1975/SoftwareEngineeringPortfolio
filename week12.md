@@ -15,7 +15,7 @@ The code segment below was clear in that all the variable names were meaningfull
 
 The code segment below was again clear with good level of commentsl. However, the line StaffRotaModel newRota = GetNewRota was not particularly clean. Instead, I would have susggested using something on the line of StaffRota staffRota = GetNewRota. (Fig 3)
 
-![](images/week12-review-1b.png "")
+![](images/week12-review1b.png "")
 
 **fig 3**
 
