@@ -52,3 +52,15 @@ Following the workflow, once the feature branch is merged into the Development b
 
 **fig 9**
 
+## Code Review 2 ##
+
+The following code review (fig 10) shows poor code.  The variable Amount data type is a string. Furthermore, it is not clear whether the amount requires to a quanity or a cost.  If it is a quantity, then the integer datatype should be used, otherwise a float if the amount is a cost.
+
+![](images/week12-reivew-1a.png "")
+
+
+
+## Reflection ##
+
+
+
