@@ -1,7 +1,6 @@
-
 ## Code Review 1 ##
 
-In the branch tab in GitHub, I could see that the below feature branch was ready for review (fig 1)
+In the branch tab in GitHub, I could see that the below feature branch was ready for review (fig 1). The workflow requires that a Code Review is undertaken and only merged into the development branch until approved. This is to ensure code quality is applied to the pull request.  Often, I have noticed that merge requests have merge conflicts as discussed below.
 
 ![](images/week12-review1-ready.png "")
 
@@ -41,5 +40,15 @@ Here is an example of a merge conflict.  The branch that requires merges has con
 
 **fig 7**
 
+Once the conflict merges were fixed, I was able to merge pull request. (fig 8)
 
+![](images/week12-reivew1-merge-pull-request.png " ")
+
+**fig 8**
+
+Following the workflow, once the feature branch is merged into the Development branch, it is deleted from the remote repo (fig 9).
+
+![](images/week12-branch-deleted.png " ")
+
+**fig 9**
 
