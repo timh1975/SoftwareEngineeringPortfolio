@@ -72,7 +72,7 @@ In reflection, the following improvments would need to be applied. These recomme
 2.  Ensure that the board is kept updated when a status of an issue has changed.
 3.  Ensure GitHub comments are added when undertaking Code Review, status of review and if they are ready for merging into the development/master branch.
 
-# Git and GitHub #
+## Git and GitHub ##
 
 This project has provided me with ample opportunity to development my git and GitHub skills.  The main area of development was around indentifying and correcting merge conflicts.  Whilst I am confident in dealing with these issues, the large amount of merge conflicts demonstrated that Git and GitHub was not used effiency. 
 Frequent changes of the same files appears to be the main cause of this. 
@@ -89,7 +89,7 @@ In reflection, the following improvments would need to be applied.
 2. There workflow needs to be more robust to deal with code issues with the development branch.  It is appearant that poorly tested code had been merged into the development branch.  It would be proposed that team members should merged the remote development branch onto their local copy.  Once merged, test their code and fix. Only fully working code should then have a code review before merging.
 3. Everyone should stick to using the same packages/libararies and versions.
 
-# Coding skills and qaulity #
+## Coding skills and qaulity ##
 
 My limitation was working with only one issue.  The issue needed to Equipment. This required the development of three database tables, three models, three views and one database class.
 I followed the example of the ToDoList database in terms of it's architecture.  I would have improved this by adopting the Model, ViewModel, Database level architecture.  This would ensure that the model cannot directly access the database, rather it would need to use the ViewModel.  This has the advantage of adding a layer of abstraction and that the data class model could be modified without the need of making changes to the view mode.  A designer could create the view without the need to understand how the database layer works and not need to make amendments what the database class is modified.
@@ -105,7 +105,7 @@ In reflection, the following improvement would need to be applied.
 3.  Add appropriate comments
 4.  Adopt better naming conventions for variables.
 
-# Code reviews #
+## Code reviews ##
 
 I spend a large part of the project reviewing code and correcting merge conflicts.  As the project is based on the architecture of the ToDoList application, it was easy to identify how the code should be layed out. The code review issues I found and commented on are
   1.  Lack of comments
