@@ -27,7 +27,7 @@ Once I reviewed the code, I added the comments and approved for changes. I decid
 
 I needed to resolve conflict merges prior to merging the feature branch into the development. Here, I was able to resolve the merge conflicts directly in GitHub (fig 5)
 
-![](images/week12-review-conflict.png " ")
+![](images/week12-reivew-conflict.png " ")
 
 **fig5**
 
