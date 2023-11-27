@@ -31,5 +31,7 @@ I needed to resolve conflict merges prior to merging the feature branch into the
 
 **fig5**
 
+Here is an example of a merge conflict.  The branch that requires merges has conflicts on lines 62 where a <Button label should have been added(fig 6). This was fixed by adding the button element.  The MAUI page would have failed to load if this fix was not applied.  See figure 7 for the change made.
+
 
 
