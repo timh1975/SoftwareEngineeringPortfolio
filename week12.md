@@ -59,7 +59,8 @@ The following code review (fig 10) shows poor code.  The variable Amount data ty
 ![](images/week12-reivew-1a.png "")
 
 
-## Reflection ##
+# Reflection #
+
 
 # Workflow #
 
